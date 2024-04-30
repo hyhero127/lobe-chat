@@ -2,6 +2,89 @@
 
 # Changelog
 
+### [Version 0.151.7](https://github.com/lobehub/lobe-chat/compare/v0.151.6...v0.151.7)
+
+<sup>Released on **2024-04-30**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add 404 and Error page.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add 404 and Error page, closes [#2299](https://github.com/lobehub/lobe-chat/issues/2299) ([938a3e9](https://github.com/lobehub/lobe-chat/commit/938a3e9))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.151.6](https://github.com/lobehub/lobe-chat/compare/v0.151.5...v0.151.6)
+
+<sup>Released on **2024-04-30**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Plugins with multiple settings cannot be correctly configured.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Plugins with multiple settings cannot be correctly configured, closes [#1991](https://github.com/lobehub/lobe-chat/issues/1991) ([0c041aa](https://github.com/lobehub/lobe-chat/commit/0c041aa))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.151.5](https://github.com/lobehub/lobe-chat/compare/v0.151.4...v0.151.5)
+
+<sup>Released on **2024-04-30**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Effectively interrupt auto scrolling.
+
+#### 💄 Styles
+
+- **misc**: Revise some text.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Effectively interrupt auto scrolling, closes [#2223](https://github.com/lobehub/lobe-chat/issues/2223) ([afe4974](https://github.com/lobehub/lobe-chat/commit/afe4974))
+
+#### Styles
+
+- **misc**: Revise some text, closes [#2296](https://github.com/lobehub/lobe-chat/issues/2296) ([018427f](https://github.com/lobehub/lobe-chat/commit/018427f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.151.4](https://github.com/lobehub/lobe-chat/compare/v0.151.3...v0.151.4)
 
 <sup>Released on **2024-04-29**</sup>
